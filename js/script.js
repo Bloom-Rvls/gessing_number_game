@@ -5,8 +5,8 @@ let statut = document.getElementById('statut');
 let randomNumber = Math.floor(Math.random() * 10) + 1;
 let nbrEssais = 3;
 
-
-for (let i=0; i<allBoutonLink.length; i++) { //pour acceder aux contenus du tableau il faut parcourir une boucle
+//pour acceder aux contenus du tableau il faut parcourir une boucle
+for (let i=0; i<allBoutonLink.length; i++) { 
     allBoutonLink[i].addEventListener ("click", () => {            
         if (nbrEssais >= 0) {
             if(allBoutonLink[i].textContent == randomNumber) {
