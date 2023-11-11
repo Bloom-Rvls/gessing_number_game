@@ -12,13 +12,14 @@ In this game, you have to found a mysterious number in three try otherwise you l
 
 ## Getting started
 To test this project, you should have Git installed on your computer.
-If it is not the case, download it here (Link to Git).
+If it is not the case, download it [here](https://git-scm.com/downloads).
 
 ```sh
-git clone https://github.com/Bloom-Rvls/gessing_number_game.git
+git clone https://github.com/Bloom-Rvls/guessing_number_game.git
 ```
 Move to the directory where you clone the project.
 
 ```sh
-cd gessing_number_game
+cd guessing_number_game
 ```
+After that, you can run the index.html file with your browser.
