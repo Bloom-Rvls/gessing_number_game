@@ -4,6 +4,10 @@ This is my first JavaScript project, a little game developed for javaScript prac
 
 In this game, you have to found a mysterious number in three try otherwise you lose.
 
+## Improvement
+
+Add level.
+
 ## Built with
 
 * [![HTML 5](https://img.shields.io/badge/HTML_5-050504?style=for-the-badge&logo=HTML5)](https://www.w3.org/html/)
